@@ -1,0 +1,15 @@
+[
+{"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"misc"},
+{"type":"table","name":"autos","database":"misc","data":
+[
+{"auto_id":"1","make":"Toyota Esquire","year":"2015","mileage":"50000"},
+{"auto_id":"2","make":"Toyota Fielder","year":"2008","mileage":"200000"},
+{"auto_id":"3","make":"Toyota Noah","year":"2004","mileage":"300000"},
+{"auto_id":"9","make":"Toyota Axio <b>","year":"2010","mileage":"50000"},
+{"auto_id":"10","make":"Toyota Esquire","year":"2014","mileage":"50000"},
+{"auto_id":"11","make":"Volvo","year":"1995","mileage":"154555"},
+{"auto_id":"12","make":"<b>Nissan Bold<\/b>","year":"1984","mileage":"296971"}
+]
+}
+]
